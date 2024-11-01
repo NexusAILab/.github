@@ -1,9 +1,3 @@
-# Welcome to NexusAI 🚀
+# NexusAI
 
-<p align="center">
-  <a href="https://nexusapi.tech">
-    <img src="https://raw.githubusercontent.com/NexusAILab/cdn/main/icon/logo.png" alt="NexusAI Logo" width="200">
-  </a>
-</p>
-
-**NexusAI** offers **unlimited AI image generation and chatbot services for free**! Access cutting-edge AI models like **FLUX**, **DALLE-3**, **GPT-4o**, and more.
+Welcome to NexusAI, where our mission is to democratize access to cutting-edge artificial intelligence models. We are committed to providing top-of-the-line AI solutions for free, empowering developers, researchers, and enthusiasts to innovate and create without barriers. Join us in our journey to make advanced AI accessible to everyone, and explore our repository of state-of-the-art models designed to tackle a wide range of challenges. Together, we can push the boundaries of what's possible with AI.
